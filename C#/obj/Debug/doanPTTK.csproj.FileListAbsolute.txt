@@ -1,0 +1,222 @@
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\doanPTTK.exe.config
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\doanPTTK.exe
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\doanPTTK.pdb
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.Dangki.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.Dangnhap.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.Properties.Resources.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.csproj.GenerateResource.cache
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.csproj.CoreCompileInputs.cache
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.exe
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.pdb
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.PhanQuyen.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.FormKhachHang.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.MovieItem.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img1.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img2.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img3.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img4.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img5.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\obj\Debug\doanPTTK.Dangki.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\obj\Debug\doanPTTK.Dangnhap.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\obj\Debug\doanPTTK.FormKhachHang.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\obj\Debug\doanPTTK.MovieItem.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\obj\Debug\doanPTTK.PhanQuyen.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\obj\Debug\doanPTTK.Properties.Resources.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\obj\Debug\doanPTTK.csproj.GenerateResource.cache
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\obj\Debug\doanPTTK.csproj.CoreCompileInputs.cache
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\obj\Debug\doanPTTK.exe
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\obj\Debug\doanPTTK.pdb
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\bin\Debug\Images\img1.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\bin\Debug\Images\img2.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\bin\Debug\Images\img3.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\bin\Debug\Images\img4.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\bin\Debug\Images\img5.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\bin\Debug\doanPTTK.exe.config
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\bin\Debug\doanPTTK.exe
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\bin\Debug\doanPTTK.pdb
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK - Copy\obj\Debug\doanPTTK.csproj.AssemblyReference.cache
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.FormDatVe.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img7.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img8.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img9.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img10.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img6.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img11.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img12.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img13.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\img14.jpg
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.FormKhuyenMai.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.FormPhanHoi.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\km2.png
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\km1.png
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\km3.png
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\bin\Debug\Images\km4.png
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.KhoiPhucMK.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.FormNhanVien.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.FormQuanLy.resources
+D:\Phân tích thiết kế hệ thống thông tin\doanPTTK\obj\Debug\doanPTTK.csproj.AssemblyReference.cache
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.csproj.AssemblyReference.cache
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.Dangki.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.Dangnhap.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.FormDatVe.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.FormKhachHang.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.FormKhuyenMai.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.FormNhanVien.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.FormPhanHoi.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.FormQuanLy.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.KhoiPhucMK.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.MovieItem.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.PhanQuyen.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.Properties.Resources.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.csproj.GenerateResource.cache
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.csproj.CoreCompileInputs.cache
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.exe
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.pdb
+D:\PTTK\doanPTTK\bin\Debug\Images\img1.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img10.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img11.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img12.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img13.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img14.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img2.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img3.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img4.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img5.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img6.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img7.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img8.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\img9.jpg
+D:\PTTK\doanPTTK\bin\Debug\Images\km1.png
+D:\PTTK\doanPTTK\bin\Debug\Images\km2.png
+D:\PTTK\doanPTTK\bin\Debug\Images\km3.png
+D:\PTTK\doanPTTK\bin\Debug\Images\km4.png
+D:\PTTK\doanPTTK\bin\Debug\doanPTTK.exe.config
+D:\PTTK\doanPTTK\bin\Debug\doanPTTK.exe
+D:\PTTK\doanPTTK\bin\Debug\doanPTTK.pdb
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.FrmHauMai.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.FormDangxuat.resources
+D:\PTTK\doanPTTK\obj\Debug\doanPTTK.FormDichVuNhanVien.resources
+D:\PTTK\C#\bin\Debug\Images\img1.jpg
+D:\PTTK\C#\bin\Debug\Images\img10.jpg
+D:\PTTK\C#\bin\Debug\Images\img11.jpg
+D:\PTTK\C#\bin\Debug\Images\img12.jpg
+D:\PTTK\C#\bin\Debug\Images\img13.jpg
+D:\PTTK\C#\bin\Debug\Images\img14.jpg
+D:\PTTK\C#\bin\Debug\Images\img2.jpg
+D:\PTTK\C#\bin\Debug\Images\img3.jpg
+D:\PTTK\C#\bin\Debug\Images\img4.jpg
+D:\PTTK\C#\bin\Debug\Images\img5.jpg
+D:\PTTK\C#\bin\Debug\Images\img6.jpg
+D:\PTTK\C#\bin\Debug\Images\img7.jpg
+D:\PTTK\C#\bin\Debug\Images\img8.jpg
+D:\PTTK\C#\bin\Debug\Images\img9.jpg
+D:\PTTK\C#\bin\Debug\Images\km1.png
+D:\PTTK\C#\bin\Debug\Images\km2.png
+D:\PTTK\C#\bin\Debug\Images\km3.png
+D:\PTTK\C#\bin\Debug\Images\km4.png
+D:\PTTK\C#\bin\Debug\doanPTTK.exe.config
+D:\PTTK\C#\bin\Debug\doanPTTK.exe
+D:\PTTK\C#\bin\Debug\doanPTTK.pdb
+D:\PTTK\C#\obj\Debug\doanPTTK.csproj.AssemblyReference.cache
+D:\PTTK\C#\obj\Debug\doanPTTK.Dangki.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.Dangnhap.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.FormDangxuat.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.FormDatVe.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.FormDichVuNhanVien.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.FormKhachHang.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.FormKhuyenMai.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.FormNhanVien.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.FormPhanHoi.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.FormQuanLy.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.FrmHauMai.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.KhoiPhucMK.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.MovieItem.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.PhanQuyen.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.Properties.Resources.resources
+D:\PTTK\C#\obj\Debug\doanPTTK.csproj.GenerateResource.cache
+D:\PTTK\C#\obj\Debug\doanPTTK.csproj.CoreCompileInputs.cache
+D:\PTTK\C#\obj\Debug\doanPTTK.exe
+D:\PTTK\C#\obj\Debug\doanPTTK.pdb
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img1.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img10.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img11.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img12.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img13.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img14.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img2.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img3.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img4.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img5.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img6.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img7.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img8.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\img9.jpg
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\km1.png
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\km2.png
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\km3.png
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\Images\km4.png
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\doanPTTK.exe.config
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\doanPTTK.exe
+D:\PTTK\CoSoDuLieu\C#\bin\Debug\doanPTTK.pdb
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.csproj.AssemblyReference.cache
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.Dangki.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.Dangnhap.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormDangxuat.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormDatVe.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormDichVuNhanVien.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormKhachHang.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormKhuyenMai.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormNhanVien.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormPhanHoi.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormQuanLy.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.FrmHauMai.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.KhoiPhucMK.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.MovieItem.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.PhanQuyen.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.Properties.Resources.resources
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.csproj.GenerateResource.cache
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.csproj.CoreCompileInputs.cache
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.exe
+D:\PTTK\CoSoDuLieu\C#\obj\Debug\doanPTTK.pdb
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img1.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img10.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img11.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img12.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img13.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img14.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img2.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img3.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img4.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img5.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img6.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img7.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img8.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\img9.jpg
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\km1.png
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\km2.png
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\km3.png
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\Images\km4.png
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\doanPTTK.exe.config
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\doanPTTK.exe
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\bin\Debug\doanPTTK.pdb
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.csproj.AssemblyReference.cache
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.exe.config
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.Dangki.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.Dangnhap.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormDangxuat.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormDatVe.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormDichVuNhanVien.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormKhachHang.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormKhuyenMai.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormNhanVien.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormPhanHoi.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.FormQuanLy.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.FrmHauMai.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.KhoiPhucMK.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.MovieItem.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.PhanQuyen.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.Properties.Resources.resources
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.csproj.GenerateResource.cache
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.csproj.CoreCompileInputs.cache
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.exe
+D:\Tài liệu\HK22025\13_2321004036_NguyenNgocXuanNghi_4305\CoSoDuLieu\C#\obj\Debug\doanPTTK.pdb
