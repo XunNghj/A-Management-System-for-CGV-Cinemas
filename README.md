@@ -37,6 +37,22 @@ Data Access Layer    →  SQL Server — stored procedures, triggers, constraint
 
 ---
 
+## System Diagrams
+
+**Use Case Diagram — System Overview**
+
+![Use Case Diagram](docs/screenshots/usecase.png)
+
+**Entity Relationship Diagram (ERD)**
+
+![ERD](docs/screenshots/erd.png)
+
+**Data Flow Diagram — Level 1**
+
+![DFD Level 1](docs/screenshots/dfd.png)
+
+---
+
 ## Database Design
 
 14 tables, fully normalised to **3NF**. High-level entity relationships:
@@ -85,30 +101,6 @@ TAIKHOAN ──< VE >── SUATCHIEU ──< PHIM
 
 ---
 
-## System Actors
-
-| Actor | Role |
-|---|---|
-| **Guest** | Browse films and showtimes — cannot book tickets |
-| **Customer** | Book tickets, pay, redeem promotions, submit feedback |
-| **Counter Staff** | Scan QR codes, confirm tickets, process combos and after-sales service |
-| **Customer Service Staff** | Receive and resolve customer feedback within 48 hours |
-| **Senior Manager** | Full system administration, access to revenue reports |
-| **Bank** | Process online payments and refund transactions |
-| **Supplier** | Confirm orders and update delivery status |
-
----
-
-## Data Flow Model
-
-The system is modelled across three DFD levels:
-
-- **Level 0 (Context)** — The entire system as a single process interacting with four external actors
-- **Level 1** — Decomposed into eight business processes with linked data stores
-- **Level 2** — Detailed flows for booking, payment, promotion management, reporting, and more
-
----
-
 ## Repository Structure
 
 ```
@@ -117,10 +109,7 @@ The system is modelled across three DFD levels:
     QuanLyRapChieuPhim.sql    →  Full SQL schema, tables, constraints
 /docs
     Report.docx               →  Full project report
-    ERD.png                   →  Entity Relationship Diagram
-    DFD_Level0.png            →  Context-level Data Flow Diagram
-    DFD_Level1.png            →  Level 1 Data Flow Diagram
-    BFD.png                   →  Business Function Decomposition
+    screenshots/              →  UI and diagram screenshots
 README.md
 ```
 
@@ -128,31 +117,15 @@ README.md
 
 ## Screenshots
 
-**Authentication**
+**System Diagrams**
 
-| Role Selection | Login | Password Recovery |
-|:---:|:---:|:---:|
-| ![Role](https://placehold.co/400x280/1a1a2e/ffffff?text=Role+Selection) | ![Login](https://placehold.co/400x280/1a1a2e/ffffff?text=Login) | ![Recovery](https://placehold.co/400x280/1a1a2e/ffffff?text=Password+Recovery) |
-
-**Customer Interface**
-
-| Home | Book Ticket | Promotions |
-|:---:|:---:|:---:|
-| ![Home](https://placehold.co/400x280/16213e/ffffff?text=Customer+Home) | ![Booking](https://placehold.co/400x280/16213e/ffffff?text=Book+Ticket) | ![Promo](https://placehold.co/400x280/16213e/ffffff?text=Promotions) |
-
-**Administrator Interface**
-
-| Film Management | Showtime Management | Reports & Statistics |
-|:---:|:---:|:---:|
-| ![Films](https://placehold.co/400x280/0f3460/ffffff?text=Film+Management) | ![Showtimes](https://placehold.co/400x280/0f3460/ffffff?text=Showtime+Management) | ![Reports](https://placehold.co/400x280/0f3460/ffffff?text=Reports+%26+Statistics) |
-
-**Staff Interface**
-
-| QR Code Scanner | After-Sales Service |
+| Role Selection | Customer Home |
 |:---:|:---:|
-| ![QR](https://placehold.co/400x280/533483/ffffff?text=QR+Code+Scanner) | ![After-sales](https://placehold.co/400x280/533483/ffffff?text=After-Sales+Service) |
+| ![Role Selection](docs/screenshots/phanquyen.png) | ![Customer Home](docs/screenshots/trangchu.png) |
 
-> To use your own screenshots, replace the placeholder URLs above with paths to your actual images placed in `docs/screenshots/`.
+| Registration Form | Promotion Management |
+|:---:|:---:|
+| ![Registration](docs/screenshots/dangky.png) | ![Promotions](docs/screenshots/khuyenmai.png) |
 
 ---
 
