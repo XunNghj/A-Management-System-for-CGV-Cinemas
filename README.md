@@ -145,9 +145,7 @@ README.md
 
 | | |
 |---|---|
-| **Student** | Nguyen Ngoc Xuan Nghi — Student ID 2321004036 |
-| **Course** | Systems Analysis & Design — Class 2521101164305 |
-| **Supervisor** | ThS. Le Thi Kim Thoa |
+| **Course** | Systems Analysis & Design |
 | **Institution** | University of Finance – Marketing · Faculty of Data Science |
 | **Completed** | August 2025 |
 
