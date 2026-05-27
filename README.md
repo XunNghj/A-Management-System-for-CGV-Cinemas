@@ -132,27 +132,27 @@ README.md
 
 | Role Selection | Login | Password Recovery |
 |:---:|:---:|:---:|
-| ![Role](docs/screenshots/phanquyen.png) | ![Login](docs/screenshots/dangnhap.png) | ![Recovery](docs/screenshots/khoiphuc.png) |
+| ![Role](https://placehold.co/400x280/1a1a2e/ffffff?text=Role+Selection) | ![Login](https://placehold.co/400x280/1a1a2e/ffffff?text=Login) | ![Recovery](https://placehold.co/400x280/1a1a2e/ffffff?text=Password+Recovery) |
 
 **Customer Interface**
 
 | Home | Book Ticket | Promotions |
 |:---:|:---:|:---:|
-| ![Home](docs/screenshots/trangchu.png) | ![Booking](docs/screenshots/datve.png) | ![Promo](docs/screenshots/khuyenmai.png) |
+| ![Home](https://placehold.co/400x280/16213e/ffffff?text=Customer+Home) | ![Booking](https://placehold.co/400x280/16213e/ffffff?text=Book+Ticket) | ![Promo](https://placehold.co/400x280/16213e/ffffff?text=Promotions) |
 
 **Administrator Interface**
 
 | Film Management | Showtime Management | Reports & Statistics |
 |:---:|:---:|:---:|
-| ![Films](docs/screenshots/qlphim.png) | ![Showtimes](docs/screenshots/qlsuat.png) | ![Reports](docs/screenshots/baocao.png) |
+| ![Films](https://placehold.co/400x280/0f3460/ffffff?text=Film+Management) | ![Showtimes](https://placehold.co/400x280/0f3460/ffffff?text=Showtime+Management) | ![Reports](https://placehold.co/400x280/0f3460/ffffff?text=Reports+%26+Statistics) |
 
 **Staff Interface**
 
 | QR Code Scanner | After-Sales Service |
 |:---:|:---:|
-| ![QR](docs/screenshots/quetma.png) | ![After-sales](docs/screenshots/haumau.png) |
+| ![QR](https://placehold.co/400x280/533483/ffffff?text=QR+Code+Scanner) | ![After-sales](https://placehold.co/400x280/533483/ffffff?text=After-Sales+Service) |
 
-> Place screenshots in `docs/screenshots/` using the filenames above to render them on GitHub.
+> To use your own screenshots, replace the placeholder URLs above with paths to your actual images placed in `docs/screenshots/`.
 
 ---
 
