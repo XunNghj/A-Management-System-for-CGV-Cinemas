@@ -41,15 +41,15 @@ Data Access Layer    →  SQL Server — stored procedures, triggers, constraint
 
 **Use Case Diagram — System Overview**
 
-![Use Case Diagram](docs/screenshots/usecase.png)
+![Use Case Diagram](docs/usecase.png)
 
 **Entity Relationship Diagram (ERD)**
 
-![ERD](docs/screenshots/erd.png)
+![ERD](docs/erd.png)
 
 **Data Flow Diagram — Level 1**
 
-![DFD Level 1](docs/screenshots/dfd.png)
+![DFD Level 1](docs/dfd.png)
 
 ---
 
@@ -121,11 +121,11 @@ README.md
 
 | Role Selection | Customer Home |
 |:---:|:---:|
-| ![Role Selection](docs/screenshots/phanquyen.png) | ![Customer Home](docs/screenshots/trangchu.png) |
+| ![Role Selection](docs/phanquyen.png) | ![Customer Home](docs/trangchu.png) |
 
 | Registration Form | Promotion Management |
 |:---:|:---:|
-| ![Registration](docs/screenshots/dangky.png) | ![Promotions](docs/screenshots/khuyenmai.png) |
+| ![Registration](docs/dangky.png) | ![Promotions](docs/khuyenmai.png) |
 
 ---
 
